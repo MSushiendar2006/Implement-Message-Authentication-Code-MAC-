@@ -89,7 +89,8 @@ int main() {
 }
 ```
 # OUTPUT:
-Screenshot 2024-10-22 222932
+![Screenshot 2024-10-25 193402](https://github.com/user-attachments/assets/7a4b7977-d1ea-46f3-86d3-d7752e722e83)
+
 
 # RESULT:
 Thus, the Message Authentication Code (MAC) algorithm has been successfully implemented in C.
